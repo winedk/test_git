@@ -4,6 +4,7 @@
     <img src="./assets/logo.png">
     <router-view/>
     111
+    222
   </div>
 </template>
 
