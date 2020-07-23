@@ -8,7 +8,7 @@ Vue.config.productionTip = false
 // 1
 // 222
 333
-// 分支dev修改1
+// 分支dev修改
 /* eslint-disable no-new */
 /* fixed*/
 new Vue({
