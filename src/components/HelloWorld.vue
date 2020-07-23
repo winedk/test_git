@@ -1,5 +1,7 @@
 <template>
-  <div class="hello"></div>
+  <div class="hello">
+    <div>202007231531</div>
+  </div>
 </template>
 
 <script>
