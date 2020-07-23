@@ -11,6 +11,7 @@ Vue.config.productionTip = false
 // 分支dev修改
 /* eslint-disable no-new */
 /* fixed*/
+2
 new Vue({
   el: '#app',
   router,
