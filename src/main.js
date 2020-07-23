@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-// master 202007231546
+// dev1
 Vue.config.productionTip = false
 new Vue({
   el: '#app',
