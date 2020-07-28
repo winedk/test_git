@@ -5,6 +5,8 @@
     <div>dev1 202007231544</div>
     <div>master 202007231545</div>
     <div>测试在components中提交这个文件会到远程吗</div>
+    <div>在本文件和main。js中同时更改，然后在components中提交</div>
+
   </div>
 </template>
 
