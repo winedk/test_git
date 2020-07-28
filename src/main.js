@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+// <div>在本文件和components中同时更改，然后在components中提交</div>
 Vue.config.productionTip = false
 new Vue({
   el: '#app',
