@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-view/>
     1
+    2
   </div>
 </template>
 
