@@ -3,7 +3,15 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+
 Vue.config.productionTip = false
+// 1
+// 222
+333
+// 主分支修改
+/* eslint-disable no-new */
+/* fixed*/
+2
 new Vue({
   el: '#app',
   router,
