@@ -5,7 +5,9 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-// test git1
+// test git1 -1
+// test git1 -2
+
 new Vue({
   el: '#app',
   router,
