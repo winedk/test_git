@@ -5,7 +5,7 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-
+// 这是dev1
 new Vue({
   el: '#app',
   router,
