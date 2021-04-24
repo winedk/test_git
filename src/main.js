@@ -5,9 +5,7 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-<<<<<<< HEAD
 // dev
-=======
 // 这是dev1
 // 这是dev
 // 这是dev
@@ -16,7 +14,6 @@ Vue.config.productionTip = false
 
 // 这是dev
 
->>>>>>> dev1
 
 new Vue({
   el: '#app',
