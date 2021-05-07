@@ -5,13 +5,7 @@ import App from './App'
 import router from './router'
 
 Vue.config.productionTip = false
-// dev
-// 这是dev1
-// 这是dev
-// 这是dev
-// 这是dev
-// 这是dev2
-
+1
 
 new Vue({
   el: '#app',
