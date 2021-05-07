@@ -7,6 +7,7 @@ import router from './router'
 Vue.config.productionTip = false
 1
 2
+3
 new Vue({
   el: '#app',
   router,
