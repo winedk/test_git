@@ -12,8 +12,6 @@ Vue.config.productionTip = false
 // 这是dev
 // 这是dev2
 
-// 这是dev
-
 
 new Vue({
   el: '#app',
